@@ -1,0 +1,21 @@
+CONTRIBUTING to wmf-staff-and-contractors
+=========================================
+
+This repo attempts to show the history of people working at the
+Wikimedia Foundation over time. It does this by scraping publicly
+available data on the current [staff-and-contractor page][0] and the
+[old foundation wiki page][1]
+
+The code to do the scraping is available under GPL-3.0 license at:
+[https://github.com/thcipriani/wmffolks][2]
+
+There is currently historical data still missing. This is mostly due to
+the staff-and-contractor page being historically difficult to scrape
+deterministically.
+
+Pull requests to the [wmffolks repo][2] are *very* welcome :)
+
+[0]: <https://wikimediafoundation.org/role/staff-contractors/>
+[1]: <https://foundation.wikimedia.org/wiki/Template:Staff_and_contractors>
+[2]: <https://github.com/thcipriani/wmffolks>
+
